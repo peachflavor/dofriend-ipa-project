@@ -335,7 +335,7 @@
 !Flash:          31339 Jan 30 2013 00:00:00 +00:00 boot/grub/locale/zh_TW.mo
 !Flash:              0 Oct 14 2013 00:00:00 +00:00 config
 !Flash:            371 Oct 14 2013 00:00:00 +00:00 config/vios
-!Flash:             79 Nov 6 2024 14:00:08 +00:00 e1000_bia.txt
+!Flash:             79 Nov 6 2024 20:44:12 +00:00 e1000_bia.txt
 !Flash:         524288 Nov 6 2024 13:47:32 +00:00 nvram
 !Flash:          44873 Nov 6 2024 13:49:18 +00:00 pnp-tech-discovery-summary
 !Flash:             34 Nov 6 2024 13:49:16 +00:00 pnp-tech-time
@@ -346,7 +346,7 @@
 !Flash: nvram: -rw-          17                    <no date>  ecfm_ieee_mib
 !Flash: nvram: ----          23                    <no date>  persistent-data
 !Flash: nvram: ----        3560                    <no date>  private-config
-!Flash: nvram: -rw-        3410                    <no date>  startup-config
+!Flash: nvram: -rw-        3408                    <no date>  startup-config
 !Flash: nvram: ----          41                    <no date>  udi
 !Flash: nvram: 256 KB total (96% free)
 !
