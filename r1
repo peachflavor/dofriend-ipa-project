@@ -399,6 +399,9 @@ no cdp log mismatch duplex
 !
 ip tcp synwait-time 5
 ! 
+interface Loopback1
+ ip address 172.31.1.1 255.255.255.0
+!
 interface GigabitEthernet0/0
  ip address 192.168.1.1 255.255.255.0
  duplex auto
